@@ -1,2 +1,4 @@
 # UNIESP_Banco_Dados_p2
-Repositório com o conteúdo da matéria de Banco de Dados - p2B.
+
+Repositorio com as aulas de **Banco de Dados**. 
+Cada pasta é uma aula.
