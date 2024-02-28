@@ -1,0 +1,7 @@
+# Ignorando arquivos temporarios do brModelo
+
+*.chc
+
+# Ignorar aplicativo brModelo
+
+brModelo.jar
