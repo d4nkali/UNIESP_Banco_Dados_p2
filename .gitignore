@@ -5,3 +5,7 @@
 # Ignorar aplicativo brModelo
 
 brModelo.jar
+
+# Ignorar documentos pdf
+
+*.pdf
